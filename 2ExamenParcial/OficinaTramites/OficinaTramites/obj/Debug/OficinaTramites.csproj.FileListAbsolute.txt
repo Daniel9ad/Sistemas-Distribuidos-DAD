@@ -1,0 +1,26 @@
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\bin\Debug\OficinaTramites.exe.config
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\bin\Debug\OficinaTramites.exe
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\bin\Debug\OficinaTramites.pdb
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.csproj.AssemblyReference.cache
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.Properties.Resources.resources
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.csproj.GenerateResource.cache
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.csproj.CoreCompileInputs.cache
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.exe
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.pdb
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\bin\Debug\Newtonsoft.Json.dll
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\bin\Debug\Newtonsoft.Json.xml
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaT.B3F4B4EE.Up2Date
+E:\7°Semestre\Sistemas Distribuidos\Sistemas-Distribuidos-AIMA\Parciales\2doParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.Titulo.resources
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\bin\Debug\OficinaTramites.exe.config
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\bin\Debug\OficinaTramites.exe
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\bin\Debug\OficinaTramites.pdb
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\bin\Debug\Newtonsoft.Json.dll
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\bin\Debug\Newtonsoft.Json.xml
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.csproj.AssemblyReference.cache
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.Titulo.resources
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.Properties.Resources.resources
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.csproj.GenerateResource.cache
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.csproj.CoreCompileInputs.cache
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaT.B3F4B4EE.Up2Date
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.exe
+D:\Daniel\usfx\sis258\Sistemas-Distribuidos-DAD\2ExamenParcial\OficinaTramites\OficinaTramites\obj\Debug\OficinaTramites.pdb

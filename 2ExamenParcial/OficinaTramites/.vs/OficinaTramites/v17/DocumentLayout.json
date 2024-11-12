@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\OficinaTramites\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC41C9-E935-437F-A7E8-CB77D13B22B3}|OficinaTramites\\OficinaTramites.csproj|d:\\daniel\\usfx\\sis258\\sistemas-distribuidos-dad\\2examenparcial\\oficinatramites\\oficinatramites\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC41C9-E935-437F-A7E8-CB77D13B22B3}|OficinaTramites\\OficinaTramites.csproj|solutionrelative:oficinatramites\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC41C9-E935-437F-A7E8-CB77D13B22B3}|OficinaTramites\\OficinaTramites.csproj|d:\\daniel\\usfx\\sis258\\sistemas-distribuidos-dad\\2examenparcial\\oficinatramites\\oficinatramites\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F0CC41C9-E935-437F-A7E8-CB77D13B22B3}|OficinaTramites\\OficinaTramites.csproj|solutionrelative:oficinatramites\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC41C9-E935-437F-A7E8-CB77D13B22B3}|OficinaTramites\\OficinaTramites.csproj|D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\OficinaTramites\\oficinatramites\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0CC41C9-E935-437F-A7E8-CB77D13B22B3}|OficinaTramites\\OficinaTramites.csproj|solutionrelative:oficinatramites\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\OficinaTramites\\OficinaTramites\\App.config",
+              "RelativeDocumentMoniker": "OficinaTramites\\App.config",
+              "ToolTip": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\OficinaTramites\\OficinaTramites\\App.config",
+              "RelativeToolTip": "OficinaTramites\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-11T21:16:53.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\OficinaTramites\\OficinaTramites\\Form1.cs",
+              "RelativeDocumentMoniker": "OficinaTramites\\Form1.cs",
+              "ToolTip": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\OficinaTramites\\OficinaTramites\\Form1.cs",
+              "RelativeToolTip": "OficinaTramites\\Form1.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAwwGIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:02:18.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\OficinaTramites\\OficinaTramites\\Form1.cs",
+              "RelativeDocumentMoniker": "OficinaTramites\\Form1.cs",
+              "ToolTip": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\OficinaTramites\\OficinaTramites\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "OficinaTramites\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:58:05.01Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

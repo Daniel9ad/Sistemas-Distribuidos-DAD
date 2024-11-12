@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9ACC5-D6BB-4446-919F-0B16A0C7FF08}|D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\segip-soap|d:\\daniel\\usfx\\sis258\\sistemas-distribuidos-dad\\2examenparcial\\servicio-seduca\\segip-soap\\app_code\\wsseduca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F9ACC5-D6BB-4446-919F-0B16A0C7FF08}|D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\segip-soap|solutionrelative:segip-soap\\app_code\\wsseduca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9ACC5-D6BB-4446-919F-0B16A0C7FF08}|D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\segip-soap|d:\\daniel\\usfx\\sis258\\sistemas-distribuidos-dad\\2examenparcial\\servicio-seduca\\segip-soap\\app_code\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F9ACC5-D6BB-4446-919F-0B16A0C7FF08}|D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\segip-soap|solutionrelative:segip-soap\\app_code\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9ACC5-D6BB-4446-919F-0B16A0C7FF08}|D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\segip-soap|d:\\daniel\\usfx\\sis258\\sistemas-distribuidos-dad\\2examenparcial\\servicio-seduca\\segip-soap\\wsseduca.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+      "RelativeMoniker": "D:0:0:{38F9ACC5-D6BB-4446-919F-0B16A0C7FF08}|D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\segip-soap|solutionrelative:segip-soap\\wsseduca.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WSSeduca.asmx",
+              "DocumentMoniker": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\segip-soap\\WSSeduca.asmx",
+              "RelativeDocumentMoniker": "segip-soap\\WSSeduca.asmx",
+              "ToolTip": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\segip-soap\\WSSeduca.asmx",
+              "RelativeToolTip": "segip-soap\\WSSeduca.asmx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
+              "WhenOpened": "2024-11-11T20:35:45.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\segip-soap\\App_Code\\Persona.cs",
+              "RelativeDocumentMoniker": "segip-soap\\App_Code\\Persona.cs",
+              "ToolTip": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\segip-soap\\App_Code\\Persona.cs",
+              "RelativeToolTip": "segip-soap\\App_Code\\Persona.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:29:08.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WSSeduca.cs",
+              "DocumentMoniker": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\segip-soap\\App_Code\\WSSeduca.cs",
+              "RelativeDocumentMoniker": "segip-soap\\App_Code\\WSSeduca.cs",
+              "ToolTip": "D:\\Daniel\\usfx\\sis258\\Sistemas-Distribuidos-DAD\\2ExamenParcial\\servicio-seduca\\segip-soap\\App_Code\\WSSeduca.cs*",
+              "RelativeToolTip": "segip-soap\\App_Code\\WSSeduca.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:20:10.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
